@@ -1,0 +1,42 @@
+body{
+    background-image: url("test.jpg");
+    background-size: 100%; 
+    height:2100px;
+    background-repeat: no-repeat
+}
+
+/* #cover{
+    background-size: auto;
+} */
+
+h1{
+     position:fixed; 
+left:10px;
+top: 300px;
+color:rgb(255,255,255);
+font-size: 100px;
+text-align: center;
+font-family: 'Sofia', cursive;
+}
+
+button{
+    position:fixed;
+}
+
+h2{
+    position:fixed; 
+left:800px;
+top: 800px;
+color:rgb(255,255,255);
+font-size:30px;
+text-align: center;
+}
+
+h3{
+    position:fixed; 
+    left:700px;
+    top: 700px;
+    color:rgb(255,255,255);
+    font-size:20px;
+    text-align: center; 
+}
